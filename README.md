@@ -7,7 +7,7 @@
 
 - 🌱 My area of interest are **Web Development, Web3, AI/ML**
 
-- 👯 I’m currently learning **ReactJS**
+- 👯 I’m currently learning **Frontend Web Development with ReactJS**
 
 - 🤝 I’m looking for a **Frontend role / entry level software engineer role**
 
