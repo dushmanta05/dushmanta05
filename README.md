@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dushmanta Behera</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilub4&label=Profile%20views&color=0e75b6&style=flat" alt="dilub4" /> </p>
-
 <a href="https://app.daily.dev/dilub4"><img src="https://api.daily.dev/devcards/6e724b82773f42b4a2b8b7120747e38d.png?r=b3c" width="400" alt="Dilu's Dev Card"/></a>
 
 - 🔭 I’m currently working on **Meme Generator with ReactJS**
