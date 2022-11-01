@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilub4&label=Profile%20views&color=blueviolet&style=flat" /> </p>
 
-- 🔭 I’m currently working on **Meme Generator with ReactJS**
+- 🔭 I’m currently working on **Fit-Bull Web App with ReactJS & MaterialUI**
 
 - 🌱 My area of interest are **Web Development, Web3, AI/ML**
 
