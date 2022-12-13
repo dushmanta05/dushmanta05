@@ -2,24 +2,26 @@
 <h3 align="center">A passionate web developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilub4&label=Profile%20views&color=blueviolet&style=flat" /> </p>
 
-- 🔭 I’m currently working on **Fit-Bull Web App with ReactJS & MaterialUI**
+-  :hammer: I’m currently working on **FIFA WC2022 Web App with ReactJS & MaterialUI**
 
-- 🌱 My area of interest are **Web Development, Web3, AI/ML**
+- :clipboard: My area of interest are **Web Development, Web3, AI/ML**
 
-- 👯 I’m currently learning **Frontend Web Development with ReactJS**
+- :pencil: I’m currently learning **Frontend Web Development with ReactJS, Redux**
 
-- 🤝 I’m looking for a **Frontend role / entry level software engineer role**
+- :eyes: I’m looking for a **Frontend role / entry level software engineer role**
 
-- 💬 Ask me about **React, JavaScript**
+- :speech_balloon: Ask me about **React, JavaScript, CSS, Web3**
 
-- 📫 How to reach me: **imdilub@gmail.com**
+- :email: How to reach me: **dushmanta0511@gmail.com**
 
-- 😄 Pronouns: **He/Him/His**
+- :boy: Pronouns: **He/Him/His**
+
+- :soccer: I like **football, hockey**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imdilub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdilub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dilub4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilub4" height="30" width="40" /></a>
+<a href="https://twitter.com/dushmanta05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="dushmanta05" height="30" width='40' /></a>
+<a href="https://linkedin.com/in/dushmanta05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="dushmanta05" height="30" width='40' /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
