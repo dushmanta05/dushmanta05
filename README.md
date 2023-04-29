@@ -1,9 +1,9 @@
 <h3 align='center'>Hello there! 👋 </h3>
 
 #### About me:
-***Front-end web developer*** with a passion for ***open-source contributions*** and a drive to learn about ***blockchain technology***. Proficient in ***JavaScript***, ***React***, and ***TypeScript*** and have experience building responsive and user-friendly web applications. Eager to explore the potential of decentralised networks and contribute to the emerging blockchain ecosystem. Looking forward to connecting with others who are passionate about web development and blockchain technology and exploring new opportunities to learn and grow as a developer.
+**Front-end web developer** with a passion for **open-source contributions** and a drive to learn about **blockchain technology**. Proficient in **JavaScript**, **React**, and **TypeScript** and have experience building responsive and user-friendly web applications. Eager to explore the potential of decentralised networks and contribute to the emerging blockchain ecosystem. Looking forward to connect with others who are passionate about web development and blockchain technology and exploring new opportunities to learn and grow as a developer.
 
-Have an ***idea*** for a project you'd like to collaborate on? I'd love to hear from you! Please feel free to drop me a line at ***dilub4@gmail.com***, Let's build something great together. **🤝**
+Have an **idea** for a project you'd like to collaborate on? I'd love to hear from you! Please feel free to drop me a line at **dilub4@gmail.com**, Let's build something great together. **🤝**
 
 #### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushmanta05) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dushmanta05)
