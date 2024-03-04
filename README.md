@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-I'm a web developer with a drive to learn Machine Learning, while also embracing the world of open-source.
-- Checkout my [Portfolio](https://dushmanta.is-a.dev/)
-- Contact me: dev.dushmanta@gmail.com
+I'm a Passionate software engineer, enthusiastic and dedicated to learn and build innovative solutions that makes a positive impact.
+- Checkout my [Portfolio](https://dushmanta.dev/)
+- Contact me: dushbehera05@gmail.com
 
 Socials:
   
