@@ -6,7 +6,7 @@ I'm a **Passionate Software Engineer**, enthusiastic and dedicated to learn and 
 
 Socials:
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushmanta05) [![](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/998821117701660732) [![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0.svg?logo=Twitter&logoColor=white)](https://twitter.com/dushmanta05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushmanta05) [![](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/998821117701660732) [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/dushmanta05) [![Peerlist](https://img.shields.io/badge/Peerlist-%2300AA45.svg?logo=peerlist&logoColor=white)](https://peerlist.io/dushmanta)
 
 Skills & Tools:
 
