@@ -6,7 +6,7 @@ I'm a **Passionate Software Engineer**, enthusiastic and dedicated to learn and 
 
 Blogs:
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://dushmanta.hashnode.dev) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://dushmanta.medium.com)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://dushmanta.medium.com) [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://dushmanta.hashnode.dev) [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/dushmanta)
 
 Socials:
   
